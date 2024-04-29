@@ -1,6 +1,6 @@
-DataGrokr Assignment 2
-Question was: Write a Good README file/doc
-Project Description: 
+DataGrokr Assignment 2 <br>
+Question was: Write a Good README file/doc <br>
+Project Description: <br>
   Suppose there is a repository called ‘country-capital-api’ that houses the code
   for an API written in Python and Flask that returns the name of the country if a 
   capital city is provided. The ASGI server Uvicorn is used to serve
