@@ -12,7 +12,7 @@ Project Description: <br>
 
 <h1>README file</h1>
 
-# Project Title
+## Project Title
 The country-capital-api is a Python and Flask-based API that provides functionality to retrieve 
 the name of a country based on a provided capital city. The API is served using the ASGI server 
 Uvicorn. Additionally, it offers a microservice endpoint available at 
